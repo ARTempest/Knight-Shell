@@ -7,6 +7,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 add_executable(knight_shell
 src/main.cpp
 src/shell.cpp
+src/lexer.cpp
 )
 
 

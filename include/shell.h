@@ -6,6 +6,5 @@
 
 void StartShell();
 void ReadInput();
-void LexecizeInput(std::string);
 
 #endif
